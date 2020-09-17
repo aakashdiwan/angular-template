@@ -33,7 +33,7 @@ export class AppComponent {
       ],
       startDate: new Date('13 Sept 2020'),
       endDate: new Date('13 Sept 2020'),
-      progress: 'Inprogress',
+      progress: 'Progressed',
       completed: true
     },
     {
@@ -43,7 +43,7 @@ export class AppComponent {
       ],
       startDate: new Date('14 Sept 2020'),
       endDate: new Date('14 Sept 2020'),
-      progress: 'Yet to start',
+      progress: 'Progressed',
       completed: true
     },
     {
@@ -53,7 +53,7 @@ export class AppComponent {
       ],
       startDate: new Date('14 Sept 2020'),
       endDate: new Date('16 Sept 2020'),
-      progress: 'Yet to start',
+      progress: 'Progressed',
       completed: true
     },
     {
@@ -63,7 +63,7 @@ export class AppComponent {
       ],
       startDate: new Date('16 Sept 2020'),
       endDate: new Date('20 Sept 2020'),
-      progress: 'Yet to start',
+      progress: 'Progressed',
       completed: true
     },
     {
@@ -73,7 +73,7 @@ export class AppComponent {
       ],
       startDate: new Date('16 Sept 2020'),
       endDate: new Date('24 Sept 2020'),
-      progress: 'Yet to start',
+      progress: 'Inprogress',
       completed: false
     },
     {
